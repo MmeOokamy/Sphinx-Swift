@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "title": "Au Commencement",
+        "formule": "D23 G20 J17 ??",
+        "solution": "M14",
+        "aide": "+3 -3",
+        
+    },
+    
+    {
+        "id": "2",
+        "title": "AlphaNumérique",
+        "formule": "Si ELLE = 512125 alors LUI = 1???9 ",
+        "solution": "12219",
+        "aide": "Place dans l'alphabet",
+        
+    },
+    
+    {
+        "id": "3",
+        "title": "Mhé",
+        "formule": "U(1) C(5) ?(9) T(13)",
+        "solution": "N",
+        "aide": "Un Cinq Neuf Treize",
+        
+    },
+    
+    {
+        "id": "4",
+        "title": "Amazonie",
+        "formule": "Souris(3) Crocodile(4) Tigre(2) Mygale(?)",
+        "solution": "3",
+        "aide": "Voyelle",
+        
+    },
+    
+]
+
